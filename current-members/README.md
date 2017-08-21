@@ -10,13 +10,13 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 
 | day  |  feeder |
 |---|---|
-| Monday  | Rachel  |
+| Monday  | Huynh  |
 | Tuesday | Rachel  |
 | Wednesday  | Rachel  |
 | Thursday  | Rachel  |
-| Friday  | Rachel|
-| Saturday | TBD  |
-| Sunday | TBD  |
+| Friday  | Marisa |
+| Saturday | Marisa  |
+| Sunday | Kelly  |
 
 ### water change schedule, summer 2017
 
